@@ -1,0 +1,1 @@
+-console -novid -high -threads 8 -nojoy -nod3d9ex -noborder
